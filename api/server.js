@@ -11,16 +11,6 @@ const users = [
     lastName: "last1",
     email: "abc@gmail.com"
   },
-  {
-    firstName: "first2",
-    lastName: "last2",
-    email: "abc@gmail.com"
-  },
-  {
-    firstName: "first3",
-    lastName: "last3",
-    email: "abc@gmail.com"
-  }
 ];
 
 app.use(bodyParser.json());
