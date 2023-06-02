@@ -43,7 +43,7 @@ Technology stack:
 ## Continuous deployment to Kubernetes cluster using ArgoCD and Helm Chart 
 
 ## Best practice for Git Repository 
-1. Application source code in different repository - https://github.com/lanru2001/nodejs-react-user-mgt-app
+1. Application source code in different repository
 2. Application configuration ( k8s manifest file) in another repository.
 
-Using Istio Gateway to Route Traffic to Microservices on Amazon EKS - https://www.youtube.com/watch?v=_ImVPrUZ6yY
+
