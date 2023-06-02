@@ -30,17 +30,13 @@ Finally, copy the server.js into the same folder
 
 Have this command node ./api/server.js with the CMD. This automatically runs when we run the image.
 
-
-# Nodejs-React Application Architecture Design
-![image](https://user-images.githubusercontent.com/59709429/230519489-32d977b4-889d-40d2-b848-a64f465ec85e.png)
-
-
 Technology stack:
 - Nodejs
 - React
 - MySQL
 - Docker
 - Terraform
+- Istio
 - Bash Scripting 
 - AWS ( EKS, EC2 NODE GROUPS, ECR, IAM, SECURITY GROUP, ALB VPC, EC2(Jenkins server)and CLOUDWATCH(logs and metrics))
 
